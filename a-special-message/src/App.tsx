@@ -10,9 +10,9 @@ import { Heart } from 'lucide-react';
 const LYRICS = [
   { text: "Main tenu samjhawan ki", duration: 3500 },
   { text: "Na tere bina lagda ji", duration: 4500 },
-  { text: "Tu ki jaane pyaar meraaa", duration: 4000 },
-  { text: "Main karun intezar teraaa", duration: 4200 },
-  { text: "Tu dil tui-yon jaan meri", duration: 4000 },
+  { text: "Tu ki jne pyr mera", duration: 4000 },
+  { text: "Main karun intezar tera", duration: 4200 },
+  { text: "Tu dil tui-yon jn meri", duration: 4000 },
   { text: "Main tenu samjhawan.... ", duration: 4000 },
 ];
 
@@ -278,7 +278,7 @@ export default function App() {
               transition={{ delay: 0.5, duration: 1 }}
               className="text-6xl md:text-9xl font-bazooka shimmer-text"
             >
-              Aailobhuuu❤️
+             You're cutieeeee
             </motion.h1>
             
             <motion.div
